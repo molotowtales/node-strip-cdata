@@ -1,0 +1,23 @@
+{
+  "name": "strip-cdata",
+  "version": "0.0.1",
+  "description": "strip cdata from strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/molotowtales/node-strip-cdata.git"
+  },
+  "keywords": [
+    "cdata",
+    "strip"
+  ],
+  "author": "Bambi Vigren <christopher.vigren@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molotowtales/node-strip-cdata/issues"
+  },
+  "homepage": "https://github.com/molotowtales/node-strip-cdata#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "strip-cdata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "strip cdata from strings",
   "main": "index.js",
   "scripts": {

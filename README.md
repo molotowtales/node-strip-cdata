@@ -5,7 +5,7 @@ Really tinyshiny module to strip CDATA wrappers (`<![CDATA[` ... `]]>`).
 ## Installation
 
 ```
-npm install html-entities
+npm install strip-cdata
 ```
 
 ## Usage
